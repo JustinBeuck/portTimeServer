@@ -9,6 +9,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 const routes = require('./routes/routes.js')(app, fs);
 
-const server = app.listen(3000, () => {
-  console.log('listening on port %s...', server.address().port);
+const PORT = process.env.PORT || 8080;
+app.listen(PORT, () => {
+  console.log(`Server listening on port ${PORT}...`);
 });
