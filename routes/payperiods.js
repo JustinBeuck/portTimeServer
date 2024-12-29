@@ -8,7 +8,8 @@ const userRoutes = (app, fs) => {
         if (err) {
           throw err;
         }
-  
+        res.set('Access-Control-Allow-Origin', '*');
+        res.set('Access-Control-Allow-Methods', 'GET');
         res.send(JSON.parse(data));
       });
     });

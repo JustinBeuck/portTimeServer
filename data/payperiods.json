@@ -1,85 +1,85 @@
 [{
     "id": 1,
-    "beginningDate": "12/24/2022",
-    "endingDate": "01/20/2023",
-    "year": 2023,
-    "numberOfWeeks": 4
+    "beginningDate": "12/21/2024",
+    "endingDate": "01/24/2025",
+    "year": 2025,
+    "numberOfWeeks": 5
 },
 {
     "id": 2,
-    "beginningDate": "01/21/2023",
-    "endingDate": "02/17/2023",
-    "year": 2023,
+    "beginningDate": "01/25/2025",
+    "endingDate": "02/21/2025",
+    "year": 2025,
     "numberOfWeeks": 4
 },
 {
     "id": 3,
-    "beginningDate": "02/18/2023",
-    "endingDate": "03/24/2023",
-    "year": 2023,
-    "numberOfWeeks": 5
+    "beginningDate": "02/22/2025",
+    "endingDate": "03/21/2025",
+    "year": 2025,
+    "numberOfWeeks": 4
 },
 {
     "id": 4,
-    "beginningDate": "03/25/2023",
-    "endingDate": "04/21/2023",
-    "year": 2023,
+    "beginningDate": "03/22/2025",
+    "endingDate": "04/18/2025",
+    "year": 2025,
     "numberOfWeeks": 4
 },
 {
     "id": 5,
-    "beginningDate": "04/22/2023",
-    "endingDate": "05/19/2023",
-    "year": 2023,
-    "numberOfWeeks": 4
-},
-{
-    "id": 6,
-    "beginningDate": "05/20/2023",
-    "endingDate": "06/23/2023",
-    "year": 2023,
+    "beginningDate": "04/19/2025",
+    "endingDate": "05/23/2025",
+    "year": 2025,
     "numberOfWeeks": 5
 },
 {
+    "id": 6,
+    "beginningDate": "05/24/2025",
+    "endingDate": "06/20/2025",
+    "year": 2025,
+    "numberOfWeeks": 4
+},
+{
     "id": 7,
-    "beginningDate": "06/24/2023",
-    "endingDate": "07/21/2023",
-    "year": 2023,
+    "beginningDate": "06/21/2025",
+    "endingDate": "07/18/2025",
+    "year": 2025,
     "numberOfWeeks": 4
 },
 {
     "id": 8,
-    "beginningDate": "07/22/2023",
-    "endingDate": "08/18/2023",
-    "year": 2023,
-    "numberOfWeeks": 4
-},
-{
-    "id": 9,
-    "beginningDate": "08/19/2023",
-    "endingDate": "09/22/2023",
-    "year": 2023,
+    "beginningDate": "07/19/2025",
+    "endingDate": "08/22/2025",
+    "year": 2025,
     "numberOfWeeks": 5
 },
 {
-    "id": 10,
-    "beginningDate": "09/23/2023",
-    "endingDate": "10/20/2023",
-    "year": 2023,
+    "id": 9,
+    "beginningDate": "08/23/2025",
+    "endingDate": "09/19/2025",
+    "year": 2025,
     "numberOfWeeks": 4
 },
 {
+    "id": 10,
+    "beginningDate": "09/20/2025",
+    "endingDate": "10/24/2025",
+    "year": 2025,
+    "numberOfWeeks": 5
+},
+{
     "id": 11,
-    "beginningDate": "10/21/2023",
-    "endingDate": "11/17/2023",
-    "year": 2023,
+    "beginningDate": "10/25/2025",
+    "endingDate": "11/21/2025",
+    "year": 2025,
     "numberOfWeeks": 4
 },
 {
     "id": 12,
-    "beginningDate": "11/18/2023",
-    "endingDate": "12/22/2023",
-    "year": 2023,
-    "numberOfWeeks": 5
+    "beginningDate": "11/22/2025",
+    "endingDate": "12/19/2025",
+    "year": 2025,
+    "numberOfWeeks": 4
 }
 ]
